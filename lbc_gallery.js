@@ -13,7 +13,7 @@ $('.content-center').css({
   'max-width': '1200px'
 });
 $('ul.tabsContent').css({
-    'min-height': '280px',
+    'min-height': '1561px',
     background: '#fafafa'
 });
 $('a.list_item').css({
